@@ -4,6 +4,13 @@
    Author's custom styles
    ========================================================================== */
 
+h3.project-item {
+	padding-left: 10px;
+}
+
+p.project-item {
+	padding-left: 10px;
+}
 
 
 
