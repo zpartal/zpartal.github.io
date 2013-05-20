@@ -22,3 +22,6 @@
 	box-shadow: none;
 }*/
 
+.navbar-inverse .nav-collapse .nav>li>a, .navbar-inverse .nav-collapse .dropdown-menu a {
+	color: #FFF;
+}
