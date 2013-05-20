@@ -4,13 +4,7 @@
    Author's custom styles
    ========================================================================== */
 
-h3.project-item {
-	padding-left: 10px;
-}
-
-p.project-item {
-	padding-left: 10px;
-}
+.center { float: none; margin-left: auto; margin-right: auto; }
 
 /* Squeeze projects dropdown together */
 /*.navbar .nav > li.dropdown-split-right > a {
@@ -20,11 +14,11 @@ p.project-item {
   padding-right: 0;
 }*/
 
-.navbar .nav li.dropdown.open>.dropdown-toggle, .navbar .nav li.dropdown.active>.dropdown-toggle, .navbar .nav li.dropdown.open.active>.dropdown-toggle {
+/*.navbar .nav li.dropdown.open>.dropdown-toggle, .navbar .nav li.dropdown.active>.dropdown-toggle, .navbar .nav li.dropdown.open.active>.dropdown-toggle {
 	color: #fff;
 	background-color: rgba(0,0,0,0.05);
 	-webkit-box-shadow: none;
 	-moz-box-shadow: none;
 	box-shadow: none;
-}
+}*/
 
